@@ -1,0 +1,86 @@
+{
+ "date": "2026-08-07",
+ "generated_utc": "2026-08-08T00:52:27.336855+00:00",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 40,
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "score": 10.16,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 12,
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "score": 9.02,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 4,
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "score": 8.82,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 4,
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "score": 8.74,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "score": 7.94,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 7,
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "score": 7.6,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "score": 7.56,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 8,
+   "symbol": "MU",
+   "name": "Micron Technology",
+   "score": 7.54,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 7,
+   "symbol": "STX",
+   "name": "Seagate Technology",
+   "score": 7.11,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 2,
+   "symbol": "DDOG",
+   "name": "Datadog",
+   "score": 4.65,
+   "commodity_flag": ""
+  }
+ ]
+}
