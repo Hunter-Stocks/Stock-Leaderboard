@@ -9,7 +9,7 @@ import pandas as pd
 import yfinance as yf
 
 from engine import (compute_signals, compute_scores, run_status_machine,
-                    build_board, MIN_HISTORY)
+                    build_board, EMOJI, MIN_HISTORY)
 from universe import get_universe
 
 OUT = Path("docs")
@@ -29,16 +29,16 @@ ratio = close / med
 close = close.mask((ratio > 4) | (ratio < 0.25) | (close <= 0.02))
 enough = close.notna().sum() >= MIN_HISTORY
 close = close.loc[:, enough]
+print(f"after hygiene: {close.shape}")
 
 rs_raw, trend, hi52 = compute_signals(close)
 valid = close.notna() & rs_raw.notna()
-pct = rs_raw.where(valid).rank(axis=1, pct=True)
-scores = compute_scores(pct, trend, close, hi52)
-status, disp = run_status_machine(pct, trend, valid)
+scores, pct = compute_scores(rs_raw, trend, close, hi52, valid)
+status, disp = run_status_machine(scores, pct, trend, valid)
 
 day = status.index[-1]
 board = build_board(day, status, disp, scores, names, sectors)
-datestr = day.strftime("%Y-%m-%d")
+datestr = pd.Timestamp(day).strftime("%Y-%m-%d")
 
 # ---- write outputs ----
 json.dump({"date": datestr, "generated_utc": dt.datetime.now(dt.timezone.utc).isoformat(),
@@ -56,7 +56,7 @@ for r in board:
     st = f"{r['status']} {r['days']}".strip()
     lines.append(f"| {st} | **{r['symbol']}** | {r['name']} | {r['score']} | {r['commodity_flag']} |")
 lines += ["", "Legend: 🌊 momentum building · 🟢 market leader · 🟡 leadership weakening · 🔴 leadership broken.",
-          "Day count is cumulative over the run (wave + green). Score = relative-strength percentile × 10 (+1 elite bonus).",
+          "Day count is cumulative over the run (wave + green). Score = leadership strength 1-10 (+1 elite bonus).",
           "", "_Educational output, not investment advice._"]
 (OUT / "leaderboard.md").write_text("\n".join(lines))
 print(f"published board for {datestr}: {len(board)} rows, {greens} green")
