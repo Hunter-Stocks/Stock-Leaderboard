@@ -6,7 +6,7 @@
    "days": 40,
    "symbol": "DELL",
    "name": "Dell Technologies",
-   "score": 10.16,
+   "score": 10.18,
    "commodity_flag": ""
   },
   {
@@ -14,7 +14,7 @@
    "days": 12,
    "symbol": "HPE",
    "name": "Hewlett Packard Enterprise",
-   "score": 9.02,
+   "score": 9.06,
    "commodity_flag": ""
   },
   {
@@ -22,7 +22,7 @@
    "days": 4,
    "symbol": "PANW",
    "name": "Palo Alto Networks",
-   "score": 8.82,
+   "score": 8.86,
    "commodity_flag": ""
   },
   {
@@ -30,15 +30,23 @@
    "days": 4,
    "symbol": "LITE",
    "name": "Lumentum",
-   "score": 8.74,
+   "score": 8.75,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "SNOW",
+   "name": "Snowflake Inc.",
+   "score": 8.0,
    "commodity_flag": ""
   },
   {
    "status": "",
    "days": "",
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "score": 7.94,
+   "symbol": "COHR",
+   "name": "Coherent Corp.",
+   "score": 7.6,
    "commodity_flag": ""
   },
   {
@@ -47,14 +55,6 @@
    "symbol": "SNDK",
    "name": "Sandisk",
    "score": 7.6,
-   "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "COHR",
-   "name": "Coherent Corp.",
-   "score": 7.56,
    "commodity_flag": ""
   },
   {
@@ -70,7 +70,7 @@
    "days": 7,
    "symbol": "STX",
    "name": "Seagate Technology",
-   "score": 7.11,
+   "score": 7.13,
    "commodity_flag": ""
   },
   {
@@ -78,7 +78,7 @@
    "days": 2,
    "symbol": "DDOG",
    "name": "Datadog",
-   "score": 4.65,
+   "score": 4.49,
    "commodity_flag": ""
   }
  ]
