@@ -1,19 +1,21 @@
-# Market Leadership Board — 2026-08-07
+# Market Leadership Board — 2026-08-10
 
-_4 green leader(s) · 10 names on the board · updates weekdays after close_
+_3 green leader(s) · 12 names on the board · updates weekdays after close_
 
 | Status | Symbol | Name | Score | Note |
 |---|---|---|---|---|
-| 🟢 40 | **DELL** | Dell Technologies | 10.18 |  |
-| 🟢 12 | **HPE** | Hewlett Packard Enterprise | 9.06 |  |
-| 🟢 4 | **PANW** | Palo Alto Networks | 8.86 |  |
-| 🟢 4 | **LITE** | Lumentum | 8.75 |  |
-| 🌊 1 | **SNOW** | Snowflake Inc. | 8.0 |  |
-|  | **COHR** | Coherent Corp. | 7.6 |  |
-| 🌊 7 | **SNDK** | Sandisk | 7.6 |  |
-| 🌊 8 | **MU** | Micron Technology | 7.54 |  |
-| 🌊 7 | **STX** | Seagate Technology | 7.13 |  |
-| 🔴 2 | **DDOG** | Datadog | 4.49 |  |
+| 🟢 41 | **DELL** | Dell Technologies | 10.22 |  |
+| 🟢 13 | **HPE** | Hewlett Packard Enterprise | 9.37 |  |
+| 🟢 5 | **PANW** | Palo Alto Networks | 9.28 |  |
+|  | **CRWD** | CrowdStrike | 8.89 |  |
+| 🌊 2 | **SNOW** | Snowflake Inc. | 8.71 |  |
+|  | **NTAP** | NetApp | 8.34 |  |
+|  | **FTNT** | Fortinet | 8.08 |  |
+| 🟡 1 | **LITE** | Lumentum | 8.0 |  |
+| 🌊 8 | **SNDK** | Sandisk | 7.6 |  |
+| 🌊 9 | **MU** | Micron Technology | 7.47 |  |
+| 🌊 8 | **STX** | Seagate Technology | 7.08 |  |
+| 🔴 3 | **DDOG** | Datadog | 5.74 |  |
 
 Legend: 🌊 momentum building · 🟢 market leader · 🟡 leadership weakening · 🔴 leadership broken.
 Day count is cumulative over the run (wave + green). Score = leadership strength 1-10 (+1 elite bonus).
