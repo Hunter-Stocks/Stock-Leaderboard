@@ -1,19 +1,19 @@
-# Market Leadership Board — 2026-08-17
+# Market Leadership Board — 2026-08-18
 
-_6 green leader(s) · 10 names on the board · updates weekdays after close_
+_1 green leader(s) · 10 names on the board · updates weekdays after close_
 
 | Status | Symbol | Name | Score | Note |
 |---|---|---|---|---|
-| 🟢 46 | **DELL** | Dell Technologies | 10.17 |  |
-| 🟢 18 | **HPE** | Hewlett Packard Enterprise | 9.51 |  |
-| 🟢 10 | **LITE** | Lumentum | 9.13 |  |
-| 🟢 14 | **MU** | Micron Technology | 8.9 |  |
-| 🟢 13 | **SNDK** | Sandisk | 8.75 |  |
-| 🟢 13 | **STX** | Seagate Technology | 8.66 |  |
-| 🌊 5 | **NTAP** | NetApp | 7.94 |  |
-| 🌊 3 | **TER** | Teradyne | 7.71 |  |
-| 🔴 1 | **PANW** | Palo Alto Networks | 7.14 |  |
-| 🔴 1 | **SNOW** | Snowflake Inc. | 6.12 |  |
+| 🟢 47 | **DELL** | Dell Technologies | 9.28 |  |
+| 🟡 1 | **LITE** | Lumentum | 8.47 |  |
+| 🟡 1 | **HPE** | Hewlett Packard Enterprise | 8.36 |  |
+| 🌊 6 | **NTAP** | NetApp | 8.3 |  |
+| 🟡 1 | **STX** | Seagate Technology | 8.26 |  |
+| 🟡 1 | **MU** | Micron Technology | 8.21 |  |
+| 🟡 1 | **SNDK** | Sandisk | 7.6 |  |
+| 🌊 4 | **TER** | Teradyne | 7.37 |  |
+| 🔴 2 | **PANW** | Palo Alto Networks | 6.96 |  |
+| 🔴 2 | **SNOW** | Snowflake Inc. | 6.08 |  |
 
 Legend: 🌊 momentum building · 🟢 market leader · 🟡 leadership weakening · 🔴 leadership broken.
 Day count is cumulative over the run (wave + green). Score = leadership strength 1-10 (+1 elite bonus).
