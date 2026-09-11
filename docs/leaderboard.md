@@ -1,20 +1,20 @@
-# Market Leadership Board — 2026-09-10
+# Market Leadership Board — 2026-09-11
 
 _5 green leader(s) · 11 names on the board · updates weekdays after close_
 
 | Status | Symbol | Name | Score | Note |
 |---|---|---|---|---|
-| 🟢 63 | **DELL** | Dell Technologies | 9.05 |  |
-| 🟢 8 | **VLO** | Valero Energy | 8.67 | ⚠️ commodity — not traded |
-| 🟢 15 | **MRNA** | Moderna | 8.64 |  |
-| 🟢 27 | **LITE** | Lumentum | 8.56 |  |
-| 🟢 31 | **MU** | Micron Technology | 8.55 |  |
-| 🟡 1 | **MPC** | Marathon Petroleum | 8.45 | ⚠️ commodity — not traded |
-| 🌊 9 | **OKTA** | Okta Inc. | 8.3 |  |
-| 🟡 1 | **SNDK** | Sandisk | 8.13 |  |
-| 🌊 3 | **STX** | Seagate Technology | 7.89 |  |
-| 🌊 2 | **AMD** | Advanced Micro Devices | 7.69 |  |
-| 🟡 1 | **HPE** | Hewlett Packard Enterprise | 7.57 |  |
+| 🟢 64 | **DELL** | Dell Technologies | 10.54 |  |
+| 🟢 6 | **HPE** | Hewlett Packard Enterprise | 9.28 |  |
+| 🟢 16 | **MRNA** | Moderna | 8.86 |  |
+| 🟢 9 | **VLO** | Valero Energy | 8.71 | ⚠️ commodity — not traded |
+| 🟢 28 | **LITE** | Lumentum | 8.52 |  |
+| 🟡 2 | **MPC** | Marathon Petroleum | 8.49 | ⚠️ commodity — not traded |
+| 🟡 1 | **MU** | Micron Technology | 8.34 |  |
+| 🌊 10 | **OKTA** | Okta Inc. | 8.2 |  |
+| 🟡 2 | **SNDK** | Sandisk | 8.0 |  |
+| 🌊 3 | **AMD** | Advanced Micro Devices | 7.42 |  |
+| 🌊 4 | **STX** | Seagate Technology | 7.39 |  |
 
 Legend: 🌊 momentum building · 🟢 market leader · 🟡 leadership weakening · 🔴 leadership broken.
 Day count is cumulative over the run (wave + green). Score = leadership strength 1-10 (+1 elite bonus).
