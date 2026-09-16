@@ -1,21 +1,23 @@
-# Market Leadership Board — 2026-09-15
+# Market Leadership Board — 2026-09-16
 
-_5 green leader(s) · 12 names on the board · updates weekdays after close_
+_5 green leader(s) · 14 names on the board · updates weekdays after close_
 
 | Status | Symbol | Name | Score | Note |
 |---|---|---|---|---|
-| 🟢 66 | **DELL** | Dell Technologies | 10.33 |  |
-| 🟢 12 | **OKTA** | Okta Inc. | 9.47 |  |
-| 🟢 11 | **VLO** | Valero Energy | 9.27 | ⚠️ commodity — not traded |
-| 🟢 18 | **MRNA** | Moderna | 8.85 |  |
-| 🟢 11 | **MPC** | Marathon Petroleum | 8.7 | ⚠️ commodity — not traded |
-| 🌊 1 | **CRWD** | CrowdStrike | 8.34 |  |
-| 🟡 3 | **MU** | Micron Technology | 8.15 |  |
-| 🟡 2 | **LITE** | Lumentum | 8.11 |  |
-| 🟡 4 | **SNDK** | Sandisk | 8.0 |  |
-| 🌊 1 | **TEAM** | Atlassian Corp. | 7.9 |  |
-| 🌊 5 | **AMD** | Advanced Micro Devices | 7.51 |  |
-| 🌊 1 | **HPE** | Hewlett Packard Enterprise | 7.12 |  |
+| 🟢 67 | **DELL** | Dell Technologies | 10.5 |  |
+| 🟢 12 | **VLO** | Valero Energy | 9.27 | ⚠️ commodity — not traded |
+| 🟢 19 | **MRNA** | Moderna | 8.91 |  |
+| 🟢 13 | **OKTA** | Okta Inc. | 8.84 |  |
+| 🟢 12 | **MPC** | Marathon Petroleum | 8.52 | ⚠️ commodity — not traded |
+| 🟡 3 | **LITE** | Lumentum | 8.48 |  |
+| 🌊 2 | **CRWD** | CrowdStrike | 8.32 |  |
+| 🟡 4 | **MU** | Micron Technology | 8.14 |  |
+| 🌊 2 | **TEAM** | Atlassian Corp. | 8.08 |  |
+| 🟡 5 | **SNDK** | Sandisk | 8.0 |  |
+| 🌊 6 | **AMD** | Advanced Micro Devices | 7.94 |  |
+| 🌊 2 | **HPE** | Hewlett Packard Enterprise | 7.34 |  |
+|  | **INTC** | Intel | 7.19 |  |
+|  | **MRVL** | Marvell Technology | 7.06 |  |
 
 Legend: 🌊 momentum building · 🟢 market leader · 🟡 leadership weakening · 🔴 leadership broken.
 Day count is cumulative over the run (wave + green). Score = leadership strength 1-10 (+1 elite bonus).
