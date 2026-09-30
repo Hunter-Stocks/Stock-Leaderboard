@@ -1,4 +1,4 @@
-# Market Leadership Board — 2026-09-28
+# Market Leadership Board — 2026-09-29
 
 _0 green leader(s) · 0 names on the board · updates weekdays after close_
 
