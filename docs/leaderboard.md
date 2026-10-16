@@ -1,23 +1,22 @@
-# Market Leadership Board — 2026-10-15
+# Market Leadership Board — 2026-10-16
 
-_4 green leader(s) · 14 names on the board · updates weekdays after close_
+_4 green leader(s) · 13 names on the board · updates weekdays after close_
 
 | Status | Symbol | Name | Score | Note |
 |---|---|---|---|---|
-| 🟢 40 | **MRNA** | Moderna | 11.0 |  |
-| 🟢 7 | **TEAM** | Atlassian Corp. | 9.89 |  |
-| 🟢 6 | **MPC** | Marathon Petroleum | 9.6 | ⚠️ commodity — not traded |
-| 🟢 8 | **VLO** | Valero Energy | 8.93 | ⚠️ commodity — not traded |
-| 🟡 2 | **DELL** | Dell Technologies | 8.16 |  |
-| 🟡 2 | **OKTA** | Okta Inc. | 8.01 |  |
-| 🟡 5 | **MU** | Micron Technology | 7.79 |  |
-| 🟡 2 | **LITE** | Lumentum | 7.61 |  |
-| 🌊 4 | **SNDK** | Sandisk | 7.42 |  |
-| 🌊 1 | **ILMN** | Illumina, Inc. | 7.34 |  |
-|  | **MRVL** | Marvell Technology | 7.23 |  |
-|  | **TWLO** | Twilio | 7.15 |  |
-| 🔴 1 | **HPE** | Hewlett Packard Enterprise | 6.72 |  |
-| 🔴 2 | **P** | Everpure | 6.59 |  |
+| 🟢 7 | **MPC** | Marathon Petroleum | 9.82 | ⚠️ commodity — not traded |
+| 🟢 41 | **MRNA** | Moderna | 9.58 |  |
+| 🟢 8 | **TEAM** | Atlassian Corp. | 9.48 |  |
+| 🟢 9 | **VLO** | Valero Energy | 9.32 | ⚠️ commodity — not traded |
+|  | **PSX** | Phillips 66 | 8.46 | ⚠️ commodity — not traded |
+| 🟡 3 | **DELL** | Dell Technologies | 7.98 |  |
+| 🌊 2 | **ILMN** | Illumina, Inc. | 7.8 |  |
+| 🌊 5 | **SNDK** | Sandisk | 7.42 |  |
+| 🔴 1 | **MU** | Micron Technology | 7.2 |  |
+| 🔴 1 | **LITE** | Lumentum | 7.05 |  |
+| 🔴 1 | **OKTA** | Okta Inc. | 6.9 |  |
+| 🔴 2 | **HPE** | Hewlett Packard Enterprise | 6.52 |  |
+| 🔴 3 | **P** | Everpure | 6.36 |  |
 
 Legend: 🌊 momentum building · 🟢 market leader · 🟡 leadership weakening · 🔴 leadership broken.
 Day count is cumulative over the run (wave + green). Score = leadership strength 1-10 (+1 elite bonus).

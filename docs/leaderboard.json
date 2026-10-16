@@ -1,117 +1,109 @@
 {
- "date": "2026-10-15",
- "generated_utc": "2026-10-15T23:50:27.329578+00:00",
+ "date": "2026-10-16",
+ "generated_utc": "2026-10-16T23:52:00.702536+00:00",
  "board": [
   {
    "status": "\ud83d\udfe2",
-   "days": 40,
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "score": 11.0,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe2",
    "days": 7,
-   "symbol": "TEAM",
-   "name": "Atlassian Corp.",
-   "score": 9.89,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe2",
-   "days": 6,
    "symbol": "MPC",
    "name": "Marathon Petroleum",
-   "score": 9.6,
+   "score": 9.82,
    "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 41,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 9.58,
+   "commodity_flag": ""
   },
   {
    "status": "\ud83d\udfe2",
    "days": 8,
+   "symbol": "TEAM",
+   "name": "Atlassian Corp.",
+   "score": 9.48,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 9,
    "symbol": "VLO",
    "name": "Valero Energy",
-   "score": 8.93,
+   "score": 9.32,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "PSX",
+   "name": "Phillips 66",
+   "score": 8.46,
    "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
   },
   {
    "status": "\ud83d\udfe1",
-   "days": 2,
+   "days": 3,
    "symbol": "DELL",
    "name": "Dell Technologies",
-   "score": 8.16,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe1",
-   "days": 2,
-   "symbol": "OKTA",
-   "name": "Okta Inc.",
-   "score": 8.01,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe1",
-   "days": 5,
-   "symbol": "MU",
-   "name": "Micron Technology",
-   "score": 7.79,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe1",
-   "days": 2,
-   "symbol": "LITE",
-   "name": "Lumentum",
-   "score": 7.61,
+   "score": 7.98,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
-   "days": 4,
+   "days": 2,
+   "symbol": "ILMN",
+   "name": "Illumina, Inc.",
+   "score": 7.8,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 5,
    "symbol": "SNDK",
    "name": "Sandisk",
    "score": 7.42,
    "commodity_flag": ""
   },
   {
-   "status": "\ud83c\udf0a",
+   "status": "\ud83d\udd34",
    "days": 1,
-   "symbol": "ILMN",
-   "name": "Illumina, Inc.",
-   "score": 7.34,
-   "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "MRVL",
-   "name": "Marvell Technology",
-   "score": 7.23,
-   "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "TWLO",
-   "name": "Twilio",
-   "score": 7.15,
+   "symbol": "MU",
+   "name": "Micron Technology",
+   "score": 7.2,
    "commodity_flag": ""
   },
   {
    "status": "\ud83d\udd34",
    "days": 1,
-   "symbol": "HPE",
-   "name": "Hewlett Packard Enterprise",
-   "score": 6.72,
+   "symbol": "LITE",
+   "name": "Lumentum",
+   "score": 7.05,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 1,
+   "symbol": "OKTA",
+   "name": "Okta Inc.",
+   "score": 6.9,
    "commodity_flag": ""
   },
   {
    "status": "\ud83d\udd34",
    "days": 2,
+   "symbol": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "score": 6.52,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 3,
    "symbol": "P",
    "name": "Everpure",
-   "score": 6.59,
+   "score": 6.36,
    "commodity_flag": ""
   }
  ]
