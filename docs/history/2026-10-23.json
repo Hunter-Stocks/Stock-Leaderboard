@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-23",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 13,
+   "symbol": "TEAM",
+   "name": "Atlassian Corp.",
+   "score": 10.32,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 46,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 9.01,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 4,
+   "symbol": "OKTA",
+   "name": "Okta Inc.",
+   "score": 8.7,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 1,
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "score": 8.41,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 8,
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "score": 8.02,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "score": 7.99,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 2,
+   "symbol": "ILMN",
+   "name": "Illumina, Inc.",
+   "score": 7.72,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "score": 7.56,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 10,
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "score": 7.42,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 1,
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "score": 7.16,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  }
+ ]
+}
