@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-02",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 52,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 9.46,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 4,
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "score": 8.76,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 6,
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "score": 7.87,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 3,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 7.83,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "PSX",
+   "name": "Phillips 66",
+   "score": 7.76,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 1,
+   "symbol": "OKTA",
+   "name": "Okta Inc.",
+   "score": 7.75,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "score": 7.54,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 3,
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "score": 7.25,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "score": 7.22,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "SNDK",
+   "name": "Sandisk",
+   "score": 7.03,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 2,
+   "symbol": "TEAM",
+   "name": "Atlassian Corp.",
+   "score": 6.66,
+   "commodity_flag": ""
+  }
+ ]
+}
