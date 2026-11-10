@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-09",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 57,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 11.0,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 4,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 9.77,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "score": 9.54,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 2,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 9.23,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "score": 8.52,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "OKTA",
+   "name": "Okta, Inc.",
+   "score": 8.15,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 3,
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "score": 7.78,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "DELL",
+   "name": "Dell Technologies",
+   "score": 7.08,
+   "commodity_flag": ""
+  }
+ ]
+}
