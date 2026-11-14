@@ -1,5 +1,86 @@
 {
- "date": "2026-11-12",
- "generated_utc": "2026-11-13T02:07:51.717339+00:00",
- "board": []
+ "date": "2026-11-13",
+ "generated_utc": "2026-11-14T01:44:48.952391+00:00",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 8,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 10.73,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 6,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 9.46,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 4,
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "score": 8.76,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 7,
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "score": 8.35,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "VTRS",
+   "name": "Viatris",
+   "score": 8.22,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 5,
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "score": 8.15,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 3,
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "score": 7.96,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "APA",
+   "name": "APA Corporation",
+   "score": 7.78,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "VLO",
+   "name": "Valero Energy",
+   "score": 7.76,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "WST",
+   "name": "West Pharmaceutical Services",
+   "score": 7.38,
+   "commodity_flag": ""
+  }
+ ]
 }
