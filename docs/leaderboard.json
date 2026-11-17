@@ -1,86 +1,86 @@
 {
- "date": "2026-11-13",
- "generated_utc": "2026-11-14T01:44:48.952391+00:00",
+ "date": "2026-11-16",
+ "generated_utc": "2026-11-17T04:10:46.235062+00:00",
  "board": [
   {
    "status": "\ud83d\udfe2",
-   "days": 8,
+   "days": 9,
    "symbol": "HUM",
    "name": "Humana",
-   "score": 10.73,
+   "score": 10.32,
    "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe2",
-   "days": 6,
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "score": 9.46,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe2",
-   "days": 4,
-   "symbol": "BBY",
-   "name": "Best Buy",
-   "score": 8.76,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83c\udf0a",
-   "days": 7,
-   "symbol": "MPC",
-   "name": "Marathon Petroleum",
-   "score": 8.35,
-   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
   },
   {
    "status": "",
    "days": "",
-   "symbol": "VTRS",
-   "name": "Viatris",
-   "score": 8.22,
+   "symbol": "CNC",
+   "name": "Centene Corporation",
+   "score": 9.14,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 7,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 8.99,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 62,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 8.93,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 6,
+   "symbol": "OKTA",
+   "name": "Okta, Inc.",
+   "score": 8.17,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
    "days": 5,
-   "symbol": "RVTY",
-   "name": "Revvity",
-   "score": 8.15,
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "score": 7.9,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
-   "days": 3,
+   "days": 8,
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "score": 7.72,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "VTRS",
+   "name": "Viatris",
+   "score": 7.48,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 4,
    "symbol": "AMD",
    "name": "Advanced Micro Devices",
-   "score": 7.96,
+   "score": 7.29,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
-   "days": 1,
-   "symbol": "APA",
-   "name": "APA Corporation",
-   "score": 7.78,
-   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
-  },
-  {
-   "status": "\ud83c\udf0a",
-   "days": 1,
+   "days": 2,
    "symbol": "VLO",
    "name": "Valero Energy",
-   "score": 7.76,
+   "score": 7.25,
    "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "WST",
-   "name": "West Pharmaceutical Services",
-   "score": 7.38,
-   "commodity_flag": ""
   }
  ]
 }
