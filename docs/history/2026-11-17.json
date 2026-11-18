@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-17",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 10,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 9.91,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 8,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 8.95,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 63,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 8.77,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "CNC",
+   "name": "Centene Corporation",
+   "score": 8.14,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 7,
+   "symbol": "OKTA",
+   "name": "Okta, Inc.",
+   "score": 8.08,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 2,
+   "symbol": "VTRS",
+   "name": "Viatris",
+   "score": 7.64,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 9,
+   "symbol": "MPC",
+   "name": "Marathon Petroleum",
+   "score": 7.48,
+   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 5,
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "score": 7.47,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "WST",
+   "name": "West Pharmaceutical Services",
+   "score": 7.23,
+   "commodity_flag": ""
+  }
+ ]
+}
