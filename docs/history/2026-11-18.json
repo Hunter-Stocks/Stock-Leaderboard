@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-18",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 9,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 8.96,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 8,
+   "symbol": "OKTA",
+   "name": "Okta, Inc.",
+   "score": 8.56,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 6,
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "score": 8.03,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "score": 8.01,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 3,
+   "symbol": "VTRS",
+   "name": "Viatris",
+   "score": 7.85,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 1,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 7.77,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "score": 7.54,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 1,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 5.56,
+   "commodity_flag": ""
+  }
+ ]
+}

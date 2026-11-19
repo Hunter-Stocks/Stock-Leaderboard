@@ -1,77 +1,69 @@
 {
- "date": "2026-11-17",
- "generated_utc": "2026-11-18T03:07:48.843771+00:00",
+ "date": "2026-11-18",
+ "generated_utc": "2026-11-19T02:47:48.166273+00:00",
  "board": [
   {
    "status": "\ud83d\udfe2",
-   "days": 10,
-   "symbol": "HUM",
-   "name": "Humana",
-   "score": 9.91,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe2",
-   "days": 8,
+   "days": 9,
    "symbol": "CRL",
    "name": "Charles River Laboratories",
-   "score": 8.95,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe2",
-   "days": 63,
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "score": 8.77,
+   "score": 8.96,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
-   "days": 1,
-   "symbol": "CNC",
-   "name": "Centene Corporation",
-   "score": 8.14,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83c\udf0a",
-   "days": 7,
+   "days": 8,
    "symbol": "OKTA",
    "name": "Okta, Inc.",
-   "score": 8.08,
+   "score": 8.56,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
-   "days": 2,
-   "symbol": "VTRS",
-   "name": "Viatris",
-   "score": 7.64,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83c\udf0a",
-   "days": 9,
-   "symbol": "MPC",
-   "name": "Marathon Petroleum",
-   "score": 7.48,
-   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
-  },
-  {
-   "status": "\ud83c\udf0a",
-   "days": 5,
+   "days": 6,
    "symbol": "AMD",
    "name": "Advanced Micro Devices",
-   "score": 7.47,
+   "score": 8.03,
    "commodity_flag": ""
   },
   {
    "status": "",
    "days": "",
-   "symbol": "WST",
-   "name": "West Pharmaceutical Services",
-   "score": 7.23,
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "score": 8.01,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 3,
+   "symbol": "VTRS",
+   "name": "Viatris",
+   "score": 7.85,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 1,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 7.77,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "score": 7.54,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 1,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 5.56,
    "commodity_flag": ""
   }
  ]
