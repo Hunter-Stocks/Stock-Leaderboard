@@ -1,37 +1,45 @@
 {
- "date": "2026-11-19",
- "generated_utc": "2026-11-20T02:35:00.337227+00:00",
+ "date": "2026-11-20",
+ "generated_utc": "2026-11-21T02:49:07.396467+00:00",
  "board": [
   {
-   "status": "\ud83d\udfe2",
-   "days": 10,
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "score": 9.32,
+   "status": "\ud83d\udfe1",
+   "days": 1,
+   "symbol": "OKTA",
+   "name": "Okta, Inc.",
+   "score": 8.46,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
-   "days": 8,
-   "symbol": "AMD",
-   "name": "Advanced Micro Devices",
-   "score": 8.06,
+   "days": 2,
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "score": 8.26,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 1,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 8.13,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 3,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 7.73,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
    "days": 1,
-   "symbol": "RVTY",
-   "name": "Revvity",
-   "score": 7.8,
-   "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "BBY",
-   "name": "Best Buy",
-   "score": 7.74,
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "score": 7.62,
    "commodity_flag": ""
   },
   {
@@ -39,7 +47,15 @@
    "days": "",
    "symbol": "TGT",
    "name": "Target Corporation",
-   "score": 7.67,
+   "score": 7.24,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 3,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 7.08,
    "commodity_flag": ""
   },
   {
@@ -47,16 +63,8 @@
    "days": "",
    "symbol": "MPC",
    "name": "Marathon Petroleum",
-   "score": 7.5,
+   "score": 7.05,
    "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
-  },
-  {
-   "status": "\ud83d\udd34",
-   "days": 2,
-   "symbol": "HUM",
-   "name": "Humana",
-   "score": 6.37,
-   "commodity_flag": ""
   }
  ]
 }
