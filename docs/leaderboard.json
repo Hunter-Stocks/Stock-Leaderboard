@@ -1,70 +1,54 @@
 {
- "date": "2026-11-20",
- "generated_utc": "2026-11-21T02:49:07.396467+00:00",
+ "date": "2026-11-23",
+ "generated_utc": "2026-11-24T05:30:18.777929+00:00",
  "board": [
   {
-   "status": "\ud83d\udfe1",
-   "days": 1,
+   "status": "\ud83d\udfe2",
+   "days": 11,
    "symbol": "OKTA",
    "name": "Okta, Inc.",
-   "score": 8.46,
+   "score": 9.19,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 12,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 9.03,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 67,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 8.87,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
    "days": 2,
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "score": 8.26,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe1",
-   "days": 1,
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "score": 8.13,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe1",
-   "days": 3,
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "score": 7.73,
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "score": 7.78,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
    "days": 1,
-   "symbol": "PANW",
-   "name": "Palo Alto Networks",
-   "score": 7.62,
-   "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
    "symbol": "TGT",
    "name": "Target Corporation",
-   "score": 7.24,
+   "score": 7.76,
    "commodity_flag": ""
   },
   {
    "status": "\ud83d\udd34",
-   "days": 3,
+   "days": 4,
    "symbol": "HUM",
    "name": "Humana",
-   "score": 7.08,
+   "score": 6.56,
    "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "MPC",
-   "name": "Marathon Petroleum",
-   "score": 7.05,
-   "commodity_flag": "\u26a0\ufe0f commodity \u2014 not traded"
   }
  ]
 }

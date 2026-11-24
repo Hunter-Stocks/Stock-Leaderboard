@@ -1,0 +1,53 @@
+{
+ "date": "2026-11-23",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 11,
+   "symbol": "OKTA",
+   "name": "Okta, Inc.",
+   "score": 9.19,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 12,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 9.03,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 67,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 8.87,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 2,
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "score": 7.78,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 1,
+   "symbol": "TGT",
+   "name": "Target Corporation",
+   "score": 7.76,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 4,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 6.56,
+   "commodity_flag": ""
+  }
+ ]
+}
