@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-24",
+ "board": [
+  {
+   "status": "\ud83d\udfe2",
+   "days": 68,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 9.17,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 2,
+   "symbol": "TGT",
+   "name": "Target Corporation",
+   "score": 9.12,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 13,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 9.0,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe1",
+   "days": 1,
+   "symbol": "OKTA",
+   "name": "Okta, Inc.",
+   "score": 8.61,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 3,
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "score": 8.15,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udd34",
+   "days": 5,
+   "symbol": "HUM",
+   "name": "Humana",
+   "score": 7.91,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "CRWD",
+   "name": "CrowdStrike",
+   "score": 7.55,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "RVTY",
+   "name": "Revvity",
+   "score": 7.19,
+   "commodity_flag": ""
+  }
+ ]
+}
