@@ -1,69 +1,61 @@
 {
- "date": "2026-11-24",
- "generated_utc": "2026-11-25T04:34:14.534150+00:00",
+ "date": "2026-11-25",
+ "generated_utc": "2026-11-26T03:46:07.724214+00:00",
  "board": [
   {
    "status": "\ud83d\udfe2",
-   "days": 68,
-   "symbol": "MRNA",
-   "name": "Moderna",
-   "score": 9.17,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83c\udf0a",
-   "days": 2,
-   "symbol": "TGT",
-   "name": "Target Corporation",
-   "score": 9.12,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe2",
    "days": 13,
-   "symbol": "CRL",
-   "name": "Charles River Laboratories",
-   "score": 9.0,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83d\udfe1",
-   "days": 1,
    "symbol": "OKTA",
    "name": "Okta, Inc.",
-   "score": 8.61,
+   "score": 9.09,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
    "days": 3,
+   "symbol": "TGT",
+   "name": "Target Corporation",
+   "score": 9.06,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 69,
+   "symbol": "MRNA",
+   "name": "Moderna",
+   "score": 9.05,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 14,
+   "symbol": "CRL",
+   "name": "Charles River Laboratories",
+   "score": 8.94,
+   "commodity_flag": ""
+  },
+  {
+   "status": "",
+   "days": "",
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "score": 8.49,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 4,
    "symbol": "PANW",
    "name": "Palo Alto Networks",
-   "score": 8.15,
+   "score": 8.19,
    "commodity_flag": ""
   },
   {
-   "status": "\ud83d\udd34",
-   "days": 5,
+   "status": "\ud83c\udf0a",
+   "days": 1,
    "symbol": "HUM",
    "name": "Humana",
-   "score": 7.91,
-   "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "CRWD",
-   "name": "CrowdStrike",
-   "score": 7.55,
-   "commodity_flag": ""
-  },
-  {
-   "status": "",
-   "days": "",
-   "symbol": "RVTY",
-   "name": "Revvity",
-   "score": 7.19,
+   "score": 7.96,
    "commodity_flag": ""
   }
  ]
