@@ -1,61 +1,69 @@
 {
- "date": "2026-11-25",
- "generated_utc": "2026-11-27T03:46:35.825391+00:00",
+ "date": "2026-11-27",
+ "generated_utc": "2026-11-28T03:30:07.520135+00:00",
  "board": [
   {
    "status": "\ud83d\udfe2",
-   "days": 13,
+   "days": 14,
    "symbol": "OKTA",
    "name": "Okta, Inc.",
-   "score": 9.09,
-   "commodity_flag": ""
-  },
-  {
-   "status": "\ud83c\udf0a",
-   "days": 3,
-   "symbol": "TGT",
-   "name": "Target Corporation",
-   "score": 9.06,
+   "score": 9.21,
    "commodity_flag": ""
   },
   {
    "status": "\ud83d\udfe2",
-   "days": 69,
+   "days": 70,
    "symbol": "MRNA",
    "name": "Moderna",
-   "score": 9.05,
+   "score": 9.2,
    "commodity_flag": ""
   },
   {
    "status": "\ud83d\udfe2",
-   "days": 14,
+   "days": 15,
    "symbol": "CRL",
    "name": "Charles River Laboratories",
-   "score": 8.94,
+   "score": 9.02,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83d\udfe2",
+   "days": 5,
+   "symbol": "PANW",
+   "name": "Palo Alto Networks",
+   "score": 8.69,
    "commodity_flag": ""
   },
   {
    "status": "",
    "days": "",
-   "symbol": "BBY",
-   "name": "Best Buy",
-   "score": 8.49,
+   "symbol": "VTRS",
+   "name": "Viatris",
+   "score": 8.65,
    "commodity_flag": ""
   },
   {
-   "status": "\ud83c\udf0a",
+   "status": "\ud83d\udfe2",
    "days": 4,
-   "symbol": "PANW",
-   "name": "Palo Alto Networks",
-   "score": 8.19,
+   "symbol": "TGT",
+   "name": "Target Corporation",
+   "score": 8.51,
    "commodity_flag": ""
   },
   {
    "status": "\ud83c\udf0a",
    "days": 1,
+   "symbol": "BBY",
+   "name": "Best Buy",
+   "score": 8.26,
+   "commodity_flag": ""
+  },
+  {
+   "status": "\ud83c\udf0a",
+   "days": 2,
    "symbol": "HUM",
    "name": "Humana",
-   "score": 7.96,
+   "score": 7.81,
    "commodity_flag": ""
   }
  ]
